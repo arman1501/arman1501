@@ -22,7 +22,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-```javascript
+```JavaScript
 const arman = {
   Name        : "Md. Arman Hussan",
   Username    : "arman1501",
@@ -43,8 +43,8 @@ const arman = {
     devops    : ["Docker", "Linux", "Git", "Vercel"]
   },
 
-  currentlyLearning : ["System Design", "Advanced DSA", "DevOps"],
-  currentlyBuilding : "Scalable full-stack web applications 🚀",
+  Currently Learning: ["System Design", "Advanced DSA", "DevOps"],
+  Currently building: "Scalable full-stack web applications 🚀",
 
   goals: [
     "🌟 Contribute to large open-source projects",
@@ -52,7 +52,7 @@ const arman = {
     "💼 Land a world-class software engineering role"
   ],
 
-  funFact : "I debug with console.log and I'm not ashamed 😄"
+  funFact: "I debug with console.log and I'm not ashamed 😄"
 };
 ```
 
