@@ -156,15 +156,6 @@ const arman = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/arman1501/arman1501/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
----
 
 ## 💡 Dev Quote of the Day
 
