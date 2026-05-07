@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=220&section=header&text=Md.%20Arman%20Hussan&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Flutter%20Developer%20%7C%20CSE%20Student&descAlignY=57&descColor=8b949e&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=👋+Welcome+to+my+GitHub+Profile!;💻+Full-Stack+Web+Developer;📱+Flutter+%26+Android+App+Developer;🎓+Computer+Science+%26+Engineering+Student;🏆+Competitive+Programmer+%7C+Problem+Solver;⚡+Building+Fast%2C+Scalable+%26+Beautiful+Apps;🌍+Open+Source+Enthusiast;🚀+Turning+Ideas+into+Reality" alt="Typing SVG" />
 
 <br/>
 
@@ -18,45 +17,44 @@
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+I’m **Md. Arman Hussan**, a passionate developer from Sylhet, Bangladesh, and currently pursuing a **B.Sc in Computer Science & Engineering**.
 
-```JavaScript
-const arman = {
-  Name        : "Md. Arman Hussan",
-  Username    : "arman1501",
-  Location    : "Sylhet, Bangladesh 🇧🇩",
-  Education   : "B.Sc in Computer Science & Engineering",
+I work as a:
 
-  roles: [
-    "Full-Stack Web Developer",
-    "Flutter & Mobile App Developer",
-    "Competitive Programmer",
-    "Open Source Contributor"
-  ],
+* Full-Stack Web Developer
+* Flutter & Mobile App Developer
+* Competitive Programmer
+* Open Source Contributor
 
-  techStack: {
-    frontend  : ["React", "Next.js", "TypeScript", "TailwindCSS"],
-    backend   : ["Node.js", "Express.js", "PostgreSQL", "MongoDB"],
-    mobile    : ["Flutter", "Dart", "Android Studio"],
-    devops    : ["Docker", "Linux", "Git", "Vercel"]
-  },
+### 🚀 Tech Stack
 
-  Currently Learning: ["System Design", "Advanced DSA", "DevOps"],
-  Currently building: "Scalable full-stack web applications 🚀",
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS
+**Backend:** Node.js, Express.js, PostgreSQL, MongoDB
+**Mobile:** Flutter, Dart, Android Studio
+**DevOps & Tools:** Docker, Linux, Git, Vercel
 
-  goals: [
-    "🌟 Contribute to large open-source projects",
-    "📱 Ship production-ready Flutter apps",
-    "💼 Land a world-class software engineering role"
-  ],
+### 📚 Currently Learning
 
-  funFact: "I debug with console.log and I'm not ashamed 😄"
-};
-```
+* System Design
+* Advanced DSA
+* DevOps
 
-<br clear="right"/>
+### 🔥 Currently Building
+
+Scalable and production-ready full-stack web applications.
+
+### 🎯 Goals
+
+* Contribute to large open-source projects
+* Build and publish production-ready Flutter apps
+* Land a world-class software engineering role
+
+### 😄 Fun Fact
+
+I debug with `console.log` and I’m not ashamed.
+
 
 ---
 
